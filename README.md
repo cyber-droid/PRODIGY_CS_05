@@ -1,10 +1,16 @@
 # PRODIGY_CS_05(Network Packet Analyzer)
 
 This is a simple Network Packer Analyzer with Simple Features :
-Real-time packet analysis
-Protocol identification (TCP/UDP/ICMP)
-Packet statistics
-Colored output
-Logging functionality
-Error handling
-Root privilege check
+1.Real-time packet analysis
+
+2.Protocol identification (TCP/UDP/ICMP)
+
+3.Packet statistics
+
+4.Colored output
+
+5.Logging functionality
+
+6.Error handling
+
+7.Root privilege check
