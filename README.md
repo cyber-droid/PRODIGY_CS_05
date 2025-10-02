@@ -1,4 +1,4 @@
-# PRODIGY_CS_05(Network Packet Analyzer)
+# simple Network Packer Analyzer 
 
 This is a simple Network Packer Analyzer with Simple Features :
 1.Real-time packet analysis
